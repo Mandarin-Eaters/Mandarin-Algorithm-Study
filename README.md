@@ -13,7 +13,7 @@
 
 |                               주차                             |            날짜              |           내용           | 
 | :-------------------------------------------------------------------:   | :-----------------------------: |:-----------------------------:
-|              [1주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week1)                                                     |                                   |                         | 
+|              [1주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week1) |           22.01.10              |        백준 15552번 빠른 A+B          | 
 |              [2]()                                                    |                                     |                      |
 
 </details>
