@@ -2,7 +2,7 @@
 
 - Java 알고리즘 스터디 모임
 - 기간 : 2022.01.04 ~
-- [백준 단계별로 풀어보기] (https://www.acmicpc.net/step)
+- [백준 단계별로 풀어보기](https://www.acmicpc.net/step)
 
 ## 스터디일지
 
