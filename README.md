@@ -4,10 +4,10 @@
 - 기간 : 2022.01.04 ~
 - [백준 단계별로 풀어보기] (https://www.acmicpc.net/step)
 
-## 일지
+## 스터디일지
 
 <details markdown="1">
-<summary><strong>1주차</strong></summary>
+<summary><strong>JAVA Algorithm</strong></summary>
 
 <br/>
 
