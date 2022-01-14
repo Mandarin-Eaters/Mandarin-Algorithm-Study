@@ -9,7 +9,7 @@
 # 📗스터디일지
 
 <details markdown="1">
-<summary><strong>1주차 (22.01.04 ~ 22.01.10)</strong></summary>
+<summary><strong>[1주차] (22.01.04 ~ 22.01.10)</strong></summary>
 
 <br/>
 
@@ -37,7 +37,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>3주차 (22.01.17 ~ 22.01.24)</strong></summary>
+<summary><strong>[3주차] (22.01.17 ~ 22.01.24)</strong></summary>
 
 <br/>
 
