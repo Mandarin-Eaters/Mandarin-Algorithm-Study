@@ -23,7 +23,7 @@
 ## 스터디 참여 방법
 
 <details markdown="1">
-<summary><strong>## JAVA Algorithm</strong></summary>
+<summary><strong>파일명 및 커밋 메시지</strong></summary>
 
 - **매 스터디 전 해당 주 깃허브 폴더에 소스코드를 업로드 한다.**
 - 주별 소스코드 업로드 위치 및 양식
