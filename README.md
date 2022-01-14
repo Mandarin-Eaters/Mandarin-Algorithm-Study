@@ -9,9 +9,11 @@
 # 📗스터디일지
 
 <details markdown="1">
-<summary><strong>[1주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week1) (22.01.04 ~ 22.01.10)</strong></summary>
+<summary><strong>1주차 (22.01.04 ~ 22.01.10)</strong></summary>
 
 <br/>
+
+- [1주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week1)
 
 |            번호              |    문제이름 |      단계           |   회고록       |
 | :-----------------------------: |:-----------------------------: |:-----------------------------: |:-----------------------------:
