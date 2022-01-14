@@ -13,9 +13,9 @@
 
 <br/>
 
-- [1주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week1)
+### [1주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week1)
 
-|            번호              |    문제이름 |      단계           |   회고록       |
+|            문제번호              |    문제이름 |      단계           |   회고록       |
 | :-----------------------------: |:-----------------------------: |:-----------------------------: |:-----------------------------:
 | [15552번](https://www.acmicpc.net/problem/15552)  |   빠른 A+B | for문 | [week 1](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week1/week1.md)|
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-|            번호              |    문제이름 |      단계           |   회고록       |
+|            문제번호              |    문제이름 |      단계           |   회고록       |
 | :-----------------------------: |:-----------------------------: |:-----------------------------: |:-----------------------------:
 | [2941번](https://www.acmicpc.net/problem/2941) |   크로아티아 알파벳  | 문자열 | [week 2](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week2/week2.md) |
 | [1316번](https://www.acmicpc.net/problem/1316) |   그룹 단어 체커  | 문자열 |                    |
@@ -40,7 +40,7 @@
 <br/>
 
 
-|            번호              |    문제이름 |      단계           |   회고록       |
+|            문제번호              |    문제이름 |      단계           |   회고록       |
 | :-----------------------------: |:-----------------------------: |:-----------------------------: |:-----------------------------:
 | ----  |   |  | [week 3]()|
 
