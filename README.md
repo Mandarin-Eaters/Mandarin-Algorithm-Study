@@ -21,9 +21,12 @@
 </details>
 
 <details markdown="1">
-<summary><strong>[2주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week2) (22.01.10~ 22.01.17)</strong></summary>
+<summary><strong>[2주차] (22.01.10~ 22.01.17)</strong></summary>
 
 <br/>
+
+
+### [2주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week2) / [회고록](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week2/week2.md)
 
 |            문제번호              |    문제이름 |      단계           |   회고록       |
 | :-----------------------------: |:-----------------------------: |:-----------------------------: |:-----------------------------:
@@ -34,10 +37,11 @@
 </details>
 
 <details markdown="1">
-<summary><strong>[3주차]() (22.01.17 ~ 22.01.24)</strong></summary>
+<summary><strong>3주차 (22.01.17 ~ 22.01.24)</strong></summary>
 
 <br/>
 
+### [3주차]() / [회고록]()
 
 |            문제번호              |    문제이름 |      단계           |   회고록       |
 | :-----------------------------: |:-----------------------------: |:-----------------------------: |:-----------------------------:
