@@ -4,7 +4,7 @@
 - 기간 : 2022.01.04 ~
 - [백준 단계별로 풀어보기](https://www.acmicpc.net/step)
 
-## 스터디일지
+## 스터디일지📗
 
 <details markdown="1">
 <summary><strong>JAVA Algorithm</strong></summary>
@@ -20,7 +20,7 @@
 
 </details>
 
-## 스터디 참여 방법
+## 스터디 참여 방법⚙
 
 <details markdown="1">
 <summary><strong>파일명 및 커밋 메시지</strong></summary>
