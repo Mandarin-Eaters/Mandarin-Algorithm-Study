@@ -9,16 +9,38 @@
 # 📗스터디일지
 
 <details markdown="1">
-<summary><strong>JAVA Algorithm</strong></summary>
+<summary><strong>[1주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week1) (22.01.04 ~ 22.01.10)</strong></summary>
+
+<br/>
+
+|            날짜              |    번호 |      내용           |   회고록       |
+| :-----------------------------: |:-----------------------------: |:-----------------------------: |:-----------------------------:
+| 2022.01.10  |   [15552번](https://www.acmicpc.net/problem/15552) |빠른 A+B | [week 1](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week1/week1.md)|
+
+</details>
+
+<details markdown="1">
+<summary><strong>[2주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week2) (22.01.10~ 22.01.17)</strong></summary>
+
+<br/>
+
+|            날짜              |    번호 |      내용           |   회고록       |
+ | :-----------------------------: |:-----------------------------: |:-----------------------------: |:-----------------------------:
+| 2022.01.17  |    [2941번](https://www.acmicpc.net/problem/2941) |크로아티아 알파벳 | [week 2](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week2/week2.md) |
+|  |   |    [1316번](https://www.acmicpc.net/problem/1316) |  그룹 단어 체커  ||
+
+
+</details>
+
+<details markdown="1">
+<summary><strong>[3주차]() (22.01.17 ~ 22.01.24)</strong></summary>
 
 <br/>
 
 |                               주차                             |            날짜              |    번호 |      내용           |   회고록       |
 | :-------------------------------------------------------------------:   | :-----------------------------: |:-----------------------------: |:-----------------------------: |:-----------------------------:
-| [1주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week1) | 2022.01.10  |   [15552번](https://www.acmicpc.net/problem/15552) |빠른 A+B   | [week 1](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week1/week1.md)|
-| [2주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week2) | 2022.01.17  |    [2941번](https://www.acmicpc.net/problem/2941) |크로아티아 알파벳 | [week 2](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week2/week2.md) |
-|  |   |    [1316번](https://www.acmicpc.net/problem/1316) |  그룹 단어 체커  ||
-| [3주차]() | 2022.01.24 | ------    |------  | [week 3]() |
+
+| 2022.01.24 | ------    |------  | [week 3]() |
 
 </details>
 
