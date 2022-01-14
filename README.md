@@ -13,12 +13,11 @@
 
 <br/>
 
-### [1주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week1)
+### [1주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week1) / [회고록](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week1/week1.md)
 
-|            문제번호              |    문제이름 |      단계           |   회고록       |
-| :-----------------------------: |:-----------------------------: |:-----------------------------: |:-----------------------------:
-| [15552번](https://www.acmicpc.net/problem/15552)  |   빠른 A+B | for문 | [week 1](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week1/week1.md)|
-
+|            문제번호              |    문제이름 |      단계           |
+| :-----------------------------: |:-----------------------------: |:-----------------------------: |
+|[15552번](https://www.acmicpc.net/problem/15552)  |   빠른 A+B | for문 | 
 </details>
 
 <details markdown="1">
