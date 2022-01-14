@@ -6,7 +6,7 @@
 
 - [백준 단계별로 풀어보기](https://www.acmicpc.net/step)
 
-## 📗스터디일지
+# 📗스터디일지
 
 <details markdown="1">
 <summary><strong>JAVA Algorithm</strong></summary>
