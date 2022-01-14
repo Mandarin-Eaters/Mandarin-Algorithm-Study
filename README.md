@@ -13,7 +13,7 @@
 
 <br/>
 
-### [1주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week1) / [회고록](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week1/week1.md)
+[1주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week1) / [회고록](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week1/week1.md)
 
 |            문제번호              |    문제이름 |      단계           |
 | :-----------------------------: |:-----------------------------: |:-----------------------------: |
