@@ -36,6 +36,7 @@
         - 커밋 내용 : `Update week”N” markdown file`
         - md에는 문제를 풀면서 어려웠던 점이나 공유하고 싶은 내용을 작성
         - 예시사진
+        
         ![20220111075321](https://user-images.githubusercontent.com/32264455/149455168-70a3e87f-602c-49df-8fb3-57527c5213e1.png)
 
 
