@@ -34,5 +34,19 @@ String 값을 리턴받기 때문에 다른 타입을 사용하려면 형변환�
 추가적으로 `Scanner`는 강력한 정규식으로 인해 속도는 다소 느리더라도 타입 변환의 안정성이 매우 뛰어나다.
 
 ### seungyeonpark
+* BufferedReader
+    * 일정한 크기의 데이터를 한 번에 읽어와 버퍼에 보관
+    * 속도 향상, 시간 부하 적음
+    * 공백 처리 필요
+        * 라인(줄바꿈) 단위로 받음
+    * cating 필요
+        * String 타입 반환
+    * IOException 던짐
+* Scanner
+    * 공백 처리 필요 없음
+        * 공백과 줄바꿈 모두 경계로 인식
+    * casting 필요 없음
+        * 데이터 타입이 입력 받는 시점에서 결정됨
+    * IOException 안 던짐
 
 ###	Seonhwa
