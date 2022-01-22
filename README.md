@@ -50,6 +50,7 @@
 | [10828번](https://www.acmicpc.net/problem/10828)  |   스택|  스택|
 | [18258번](https://www.acmicpc.net/problem/18258)  |   큐 2|  큐|
 
+
 </details>
 
 ## ⚙스터디 참여 방법⚙
