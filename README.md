@@ -43,12 +43,27 @@
 
 <br/>
 
-**[3주차]() / [회고록](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week3/week3.md)**
+**[3주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week3) / [회고록](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week3/week3.md)**
 
 |            문제번호              |    문제이름 |      단계           | 
 | :-----------------------------: |:-----------------------------: |:-----------------------------: |
 | [10828번](https://www.acmicpc.net/problem/10828)  |   스택|  스택|
 | [18258번](https://www.acmicpc.net/problem/18258)  |   큐 2|  큐|
+
+
+</details>
+
+<details markdown="1">
+<summary><strong>[4주차] (22.01.24 ~ 22.01.00)</strong></summary>
+
+<br/>
+
+**[4주차]() / [회고록]()**
+
+|            문제번호              |    문제이름 |      단계           | 
+| :-----------------------------: |:-----------------------------: |:-----------------------------: |
+| [-번]()  |   -|  -|
+| [-번]()  |   -|  -|
 
 
 </details>
