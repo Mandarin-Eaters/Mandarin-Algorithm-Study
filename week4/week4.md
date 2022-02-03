@@ -34,3 +34,87 @@
 </div>
 </details>
 
+### seungyeonpark
+<details>
+<summary>11729번 하노이 탑 이동 순서</summary>
+<div markdown="1">
+  
+- n번째 문제를 풀기 위해 n - 1번째 문제의 해결법을 다시 사용하는 재귀의 원리를 이용
+- 단계
+  ```
+  1. n - 1개의 원반을 보조 기둥으로 옮긴다
+  2. 제일 큰 원반을 목표 기둥으로 옮긴다
+  3. n - 1을 목표 기둥으로 옮긴다
+  ```
+- 원반 이동 횟수
+  ```
+  f(n) = 1 + 2f(n - 1)
+  ```
+  ```
+  f(1) = 1
+  f(2) = 1 + 2f(1) = 3
+  f(3) = 1 + 2f(2) = 7
+  f(4) = 1 + 2f(3) = 15
+  f(5) = 1 + 2f(4) = 31
+  ...
+  ```
+  
+</div>
+</details>
+
+<details>
+<summary>1920번 수 찾기</summary>
+<div markdown="1">
+  
+- 이진탐색을 적용하는 전제 조건은 데이터가 키 값으로 이미 정렬(sort)되어 있다는 것
+- 이진 탐색을 한 단계씩 진행할 때마다 검색 범위가 반으로 좁혀진다
+  - 시간 복잡도 O(logn)
+- 단계
+  ``` 
+    1. L = 0, R = N - 1
+    2. 만약 L > R이면 알고리듬 종료 (탐색 실패)
+    3. m = (L + R) / 2
+    4. 만약 nums[m] < value면, L = m + 1을 하고 2번으로 돌아감
+    5. 만약 nums[m] > value면, R = m - 1을 하고 2번으로 돌아감
+    6. nums[m] == value라면, 탐색 성공
+  ```
+- 재귀로 구현
+  ``` java
+      public static boolean binarySearch(int[] ary, int value, int l, int r) {
+        if (l > r) {
+          return false;
+        }
+
+        int mid = (l + r) / 2;
+
+        if (ary[mid] < value) {
+            binarySearch(ary, value, mid + 1, r);
+        } else if (ary[mid] > value) {
+            binarySearch(ary, value, l, mid - 1);
+        } else {
+            return true;
+        }
+  
+    }
+  ```
+- 반복문으로 구현
+  ``` java
+      public static boolean binarySearch(int[] ary, int value, int l, int r) {
+        while (l <= r) {
+            int mid = (l + r) / 2;
+
+            if (ary[mid] < value) {
+                l = mid + 1;
+            } else if (ary[mid] > value) {
+                r = mid - 1;
+            } else {
+                return true;
+            }
+        }
+        
+        return false;
+    }
+  ```
+  
+</div>
+</details>
