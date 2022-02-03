@@ -1,5 +1,42 @@
 ## 4주차 회고
 
+### hwa
+<details>
+<summary>11729번 하노이 탑 이동 순서</summary>
+<div markdown="1">
+
+### 문제 해결 방식
+   * 옮길때 제일 큰 판이 맨 아래로 와야 하는 규칙에 따라 2번씩 이동이 불가피하게 일어나 Math.pow()로 거듭 제곱을 구해 마지막 큰 판만 -1을 처리해준다
+   * 재귀 이용.
+### 문제점과 해결방안
+   * Hanoi(N - 1, start, to, mid);          // 1번에서 2번으로 옮긴다고 가정할때 N-1개를 A에서 B로 이동 
+   * bw.append(start + " " + to + "\n");    // 1개를 1번에서 3번으로 이동 
+   * Hanoi(N - 1, mid, start, to);          // N-1개를 2번에서 3번으로 이동
+   * bw.flush();  //남아있는 데이터를 모두 출력, 버퍼를 비우는 기능
+			            //(데이터가 축적되는 과정에서 프로그램에 예기치 못하게 꺼져버린다면 버퍼가 비워지지 못해서 
+			            //데이터가 전해지지 않고 그대로 유실되어 이를 커버하기 위해 사용
+ 
+</div>
+</details>
+
+<details>
+<summary>1920번 수 찾기</summary>
+<div markdown="1">
+
+### 문제 해결 방식
+  * Arrays.sort(arr); //배열은 반드시 정렬되어 있어야 한다.
+### 문제점과 해결방안
+  * if(key < arr[mid]) {
+				hi = mid - 1;
+			}                   // key값이 중간 위치의 값보다 작을 경우 
+  * if(key > arr[mid]) {
+				lo = mid + 1;
+			}                   // key값이 중간 위치의 값보다 클 경우
+  * return mid;           // key값과 중간 위치의 값이 같을 경우
+   
+</div>
+</details>
+
 ### 2cleanwater
 <details>
 <summary>11729번 하노이 탑 이동 순서</summary>
