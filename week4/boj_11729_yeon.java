@@ -19,8 +19,7 @@ public class Main {
     }
     
     public static void hanoi(int n, int start, int mid, int to) {
-        if (n == 1) {
-            sb.append(start + " " + to + "\n");
+        if (n == 0) {
             return;
         }
         
