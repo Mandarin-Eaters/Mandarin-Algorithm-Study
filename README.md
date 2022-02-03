@@ -54,16 +54,34 @@
 </details>
 
 <details markdown="1">
-<summary><strong>[4주차] (22.01.24 ~ 22.01.00)</strong></summary>
+<summary><strong>[4주차] (22.01.24 ~ 22.02.03)</strong></summary>
 
 <br/>
 
-**[4주차]() / [회고록]()**
+**[4주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week4) / [회고록](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week4/week4.md)**
 
 |            문제번호              |    문제이름 |      단계           | 
 | :-----------------------------: |:-----------------------------: |:-----------------------------: |
 | [11729번](https://www.acmicpc.net/problem/11729)  |   하노이 탑 이동 순서|  재귀|
 | [1920번](https://www.acmicpc.net/problem/1920)  |   수 찾기|  이분 탐색|
+
+
+</details>
+
+<details markdown="1">
+<summary><strong>[5주차] (22.02.03 ~ 22.02.10)</strong></summary>
+
+<br/>
+
+**[5주차]() / [회고록]()**
+
+|            문제번호              |    문제이름 |      단계           | 
+| :-----------------------------: |:-----------------------------: |:-----------------------------: |
+| [23881번](https://www.acmicpc.net/problem/23881)  |   선택 정렬 1 |  알고리즘 수업|
+| [23968번](https://www.acmicpc.net/problem/23968)  |   버블 정렬 1|  알고리즘 수업|
+| [24051번](https://www.acmicpc.net/problem/24051)  |   삽입 정렬 1|  알고리즘 수업|
+| [24060번](https://www.acmicpc.net/problem/24060)  |   병합 정렬 1|  알고리즘 수업|
+| [24090번](https://www.acmicpc.net/problem/24090)  |   퀵 정렬 1|  알고리즘 수업|
 
 
 </details>
