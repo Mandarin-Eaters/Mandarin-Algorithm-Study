@@ -73,7 +73,7 @@
 
 <br/>
 
-**[5주차]() / [회고록]()**
+**[5주차](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/tree/main/week5) / [회고록](https://github.com/Mandarin-Eaters/Mandarin-Algorithm-Study/blob/main/week5/week5.md)**
 
 |            문제번호              |    문제이름 |      단계           | 
 | :-----------------------------: |:-----------------------------: |:-----------------------------: |
@@ -87,7 +87,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>[6주차] (22.02.03 ~ 22.02.14)</strong></summary>
+<summary><strong>[6주차] (22.02.14 ~ 22.02.21)</strong></summary>
 
 <br/>
 
