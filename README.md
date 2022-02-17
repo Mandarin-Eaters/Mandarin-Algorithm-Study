@@ -86,6 +86,25 @@
 
 </details>
 
+<details markdown="1">
+<summary><strong>[5주차] (22.02.03 ~ 22.02.14)</strong></summary>
+
+<br/>
+
+**[6주차]() / [회고록]()**
+
+|            문제번호              |    문제이름 |      단계           | 
+| :-----------------------------: |:-----------------------------: |:-----------------------------: |
+| [23881번](https://www.acmicpc.net/problem/23881)  |   선택 정렬 1 |  알고리즘 수업|
+| [23968번](https://www.acmicpc.net/problem/23968)  |   버블 정렬 1|  알고리즘 수업|
+| [24051번](https://www.acmicpc.net/problem/24051)  |   삽입 정렬 1|  알고리즘 수업|
+| [24060번](https://www.acmicpc.net/problem/24060)  |   병합 정렬 1|  알고리즘 수업|
+| [24090번](https://www.acmicpc.net/problem/24090)  |   퀵 정렬 1|  알고리즘 수업|
+
+
+</details>
+
+
 ## ⚙스터디 참여 방법⚙
 
 <details markdown="1">
