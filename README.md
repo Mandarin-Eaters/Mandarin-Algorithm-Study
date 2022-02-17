@@ -87,7 +87,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>[5주차] (22.02.03 ~ 22.02.14)</strong></summary>
+<summary><strong>[6주차] (22.02.03 ~ 22.02.14)</strong></summary>
 
 <br/>
 
